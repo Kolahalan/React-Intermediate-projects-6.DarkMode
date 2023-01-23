@@ -29,7 +29,7 @@ function App() {
     <main>
       <nav>
         <div className="nav-center">
-          <h1>Click on Toggle to Chanage Mode</h1>
+          <h3>Click on Toggle to Change Mode</h3>
           <button className="btn" onClick={toggleTheme}>
             toggle
           </button>
