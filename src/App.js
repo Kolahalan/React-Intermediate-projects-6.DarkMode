@@ -29,7 +29,7 @@ function App() {
     <main>
       <nav>
         <div className="nav-center">
-          <h1>overreacted</h1>
+          <h1>Click on Toggle to Chanage Mode</h1>
           <button className="btn" onClick={toggleTheme}>
             toggle
           </button>
